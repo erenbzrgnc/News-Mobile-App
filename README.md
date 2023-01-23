@@ -1,1 +1,2 @@
-# News Mobile Application with Android Studio and Java. You can check the pdf file to see details of mobile app.
+# News Mobile Application 
+This project is done during the fall term 2022 in Mobile Application Development course (CS310). You can see the details of mobile app from the pdf file.
